@@ -1,4 +1,4 @@
-# Diseaseprediction
+# DiseasePredictionSystem
 
 Disease prediction from symptoms.
 
